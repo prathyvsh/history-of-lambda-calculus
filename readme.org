@@ -38,6 +38,9 @@ Wendy Hammache, 2018
 ** [[https://link.springer.com/chapter/10.1007/978-3-319-22156-4_1][Conceptual Confluence in 1936]]
 Post and Turing, Martin Davis and Wilfried Sieg (2015)
 
+** [[http://people.uleth.ca/~jonathan.seldin/CCL.pdf][The Logic of Curry and Church]]
+Peter Seldin, March 3 2008
+
 * People
 Notes on the People who have contributed to Lambda Calculus
 
