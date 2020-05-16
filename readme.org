@@ -63,14 +63,17 @@ Notes on the People who have contributed to Lambda Calculus
 - Haskell Curry
 - Barker
 - Dana Scott
-- Strachey
+- Christopher Strachey
+- Peter Landin
+- John Reynolds
 - Gordon Plotkin
 - Bagrendt
 - D.A. Turner
+- Story
 
 ** Precedents
 
-** 1800s
+*** 1800s
 - Charles Babbage
 - Jevons
 - Venn
