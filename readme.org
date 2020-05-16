@@ -41,6 +41,10 @@ Post and Turing, Martin Davis and Wilfried Sieg (2015)
 ** [[http://people.uleth.ca/~jonathan.seldin/CCL.pdf][The Logic of Curry and Church]]
 Peter Seldin, March 3 2008
 
+* Tangential but interesting
+
+** [[https://johnmacfarlane.net/church.html][Collection of Journal of Symbolic Logic reviews by Alonzo Church]]
+
 * People
 Notes on the People who have contributed to Lambda Calculus
 
