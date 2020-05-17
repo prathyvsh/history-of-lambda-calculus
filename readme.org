@@ -45,6 +45,9 @@ Peter Seldin, March 3 2008
 
 ** [[https://johnmacfarlane.net/church.html][Collection of Journal of Symbolic Logic reviews by Alonzo Church]]
 
+** [[http://www.people.cs.uchicago.edu/~soare/History/handbook.pdf][History of Computability]]
+Robert I. Soare
+
 * People
 Notes on the People who have contributed to Lambda Calculus
 
