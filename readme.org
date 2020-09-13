@@ -37,6 +37,11 @@ Robert I. Soare
 ** [[https://f.hypotheses.org/wp-content/blogs.dir/4029/files/2018/11/Hammache_SlidesBertinoro_compact.pdf][Lambda Calculus: From logic to computation]]
 Wendy Hammache, 2018
 
+** [[https://www.cs.helsinki.fi/u/jllang/Introduction_to_Lambda_Calculus_2020-02-20.pdf][Introduction to Lambda Calculus]]
+John Lång, 2020
+
+A great set of slides that explores the broad setting in which Lambda Calculus is situated.
+
 * Individual Subjects
 
 ** [[https://dl.acm.org/doi/10.1109/MAHC.1981.10004][Origins of Recursive Function Theory]]
